@@ -129,16 +129,44 @@ Az **IKUSI FLASHD C48** antenna javasolt elsődleges használatra, mivel minden 
 ---
 
 **554MHz Mért Képek**
-<img src="">
+<details>
+  <summary>labor</summary>
+  <img src="">
+</details>
+    
+<details>
+  <summary>udvar</summary>
+  <img src=""/>
+</details>
+
+<details>
+  <summary>utca</summary>
+  <img src=""/>
+</details>
+
 
 ---
 
 **666MHz Mért Képek**
-<img src="">
+
+<details>
+  <summary>labor</summary>
+  <img src="">
+</details>
+    
+<details>
+  <summary>udvar</summary>
+  <img src=""/>
+</details>
+
+<details>
+  <summary>utca</summary>
+  <img src=""/>
+</details>
 
 ---
 
-</details>
+
 
 <br>
 
