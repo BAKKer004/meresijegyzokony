@@ -116,12 +116,12 @@ Az **IKUSI FLASHD C48** antenna javasolt elsődleges használatra, mivel minden 
 ---
 
 **554MHz Mért Képek**
-
+<img src="">
 
 ---
 
 **666MHz Mért Képek**
-
+<img src="">
 
 ---
 
@@ -133,14 +133,17 @@ Az **IKUSI FLASHD C48** antenna javasolt elsődleges használatra, mivel minden 
 
 
 **690Mhz Mért Képek:**
+  <img src="">
 
 ---
 
 **554MHz Mért Képek**
+<img src="">
 
 ---
 
 **666MHz Mért Képek**
+<img src="">
 
 ---
 
@@ -153,16 +156,17 @@ Az **IKUSI FLASHD C48** antenna javasolt elsődleges használatra, mivel minden 
 
 
 **690Mhz Mért Képek:**
+<img src="">
 
 ---
 
 **554MHz Mért Képek**
-
+<img src="">
 
 ---
 
 **666MHz Mért Képek**
-
+<img src="">
 
 ---
 
