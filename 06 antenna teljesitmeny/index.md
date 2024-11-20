@@ -1,6 +1,6 @@
 # MÉRÉSI JEGYZŐKÖNYV
 
-**A mérést végző neve:** Oláh Bence
+**A mérést végző neve:** Oláh Bence   
 **A mérés tárgya:** Antennák teljesítményének és jelminőségének összehasonlítása  
 **A mérés száma:** 1. mérés  
 **A mérés dátuma:** 2024. 11. 13  
