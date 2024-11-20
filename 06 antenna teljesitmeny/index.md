@@ -136,7 +136,7 @@ Az **IKUSI FLASHD C48** antenna javasolt elsődleges használatra, mivel minden 
     
 <details>
   <summary>udvar</summary>
-  <img src=""/>
+  <img src="https://raw.githubusercontent.com/BAKKer004/meresijegyzokony/refs/heads/main/06%20antenna%20teljesitmeny/udvar/iskua%20554%20udvar.bmp"/>
 </details>
 
 <details>
