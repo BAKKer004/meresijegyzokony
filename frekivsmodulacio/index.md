@@ -32,7 +32,7 @@ A mérés célja a **Johansson 8202 DVB-T modulátor** működésének megismer�
 ---
 
 ## 3. Beállítások
-- **Frekvencia**: 490 MHz  
+- **Frekvencia**: 594 MHz  
 - **Sávszélesség**: 8 MHz  
 - **Modulációs típusok tesztelése**:  
   - QPSK  
