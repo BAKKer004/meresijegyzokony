@@ -5,7 +5,7 @@
 
 
 **A mérés száma:** 4. mérés  
-**A mérés dátuma:** 2024. 11. 20  
+**A mérés dátuma:** 2024. 11. 27  
 **A mérést vezette:** Sándor Péter  
 
 **Évfolyam:** 13. E  
