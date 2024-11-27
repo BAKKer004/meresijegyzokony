@@ -108,42 +108,6 @@ Az **IKUSI FLASHD C48** antenna javasolt elsődleges használatra, mivel minden 
 ---
 
 ## 10. IKUSI FLASHD C48 Képek:
-<details>
-
-**690Mhz Mért Képek:**
-<details>
-  <summary>labor</summary>
-  <img src="https://raw.githubusercontent.com/BAKKer004/meresijegyzokony/refs/heads/main/06%20antenna%20teljesitmeny/labor/ikusi%20690%20labor.bmp">
-</details>
-    
-<details>
-  <summary>udvar</summary>
-  <img src="https://raw.githubusercontent.com/BAKKer004/meresijegyzokony/refs/heads/main/06%20antenna%20teljesitmeny/udvar/ikusi%20690%20udvar.bmp"/>
-</details>
-
-<details>
-  <summary>utca</summary>
-  <img src="https://raw.githubusercontent.com/BAKKer004/meresijegyzokony/refs/heads/main/06%20antenna%20teljesitmeny/utca/iska%20690%20utca.bmp"/>
-</details>
-
----
-
-**554MHz Mért Képek**
-<details>
-  <summary>labor</summary>
-  <img src="https://raw.githubusercontent.com/BAKKer004/meresijegyzokony/refs/heads/main/06%20antenna%20teljesitmeny/labor/ikusi%20554%20labor.bmp">
-</details>
-    
-<details>
-  <summary>udvar</summary>
-  <img src="https://raw.githubusercontent.com/BAKKer004/meresijegyzokony/refs/heads/main/06%20antenna%20teljesitmeny/udvar/iskua%20554%20udvar.bmp"/>
-</details>
-
-<details>
-  <summary>utca</summary>
-  <img src="https://raw.githubusercontent.com/BAKKer004/meresijegyzokony/refs/heads/main/06%20antenna%20teljesitmeny/utca/iska%20554%20utca.bmp"/>
-</details>
-
 
 ---
 
@@ -173,15 +137,6 @@ Az **IKUSI FLASHD C48** antenna javasolt elsődleges használatra, mivel minden 
 ## 11. ISKRA P20 LOGPER Képek:
 
 
-**690Mhz Mért Képek:**
-  <img src="">
-
----
-
-**554MHz Mért Képek**
-<img src="">
-
----
 
 **666MHz Mért Képek**
 <img src="">
@@ -196,15 +151,6 @@ Az **IKUSI FLASHD C48** antenna javasolt elsődleges használatra, mivel minden 
 <details>
 
 
-**690Mhz Mért Képek:**
-<img src="">
-
----
-
-**554MHz Mért Képek**
-<img src="">
-
----
 
 **666MHz Mért Képek**
 <img src="">
