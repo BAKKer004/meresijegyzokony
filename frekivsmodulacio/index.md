@@ -76,19 +76,18 @@ Az alábbi táblázatban összefoglaljuk a mérések eredményeit különböző 
 ---
 
 
-## 9. Diagramm
-- Mérési jegyzőkönyv grafikon: 
-![diagram](https://github.com/user-attachments/assets/4998637f-514c-4694-a393-6de12c99c446)
+## 8. Diagramm
+- <details>mérési diagram </details>
+<img
+
+---
+
+## 9. Záró Összegzés
 
 
 ---
 
-## 10. Záró Összegzés
-
-
----
-
-## 11. Mért Képek
+## 10. Mért Képek
 
 <details>
 <summary>Kattins a részletekért</summary>
