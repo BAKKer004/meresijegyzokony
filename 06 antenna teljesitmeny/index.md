@@ -13,7 +13,7 @@
 ---
 
 ## 1. Mérés célja
-A mérés célja három különböző típusú antenna, az **IKUSI FLASHD C48**, az **ISKRA P20 LOGPER** és az **Smart HD 550** teljesítményének összehasonlítása, valamint a jelszint és jelminőség (MER - Modulation Error Ratio) vizsgálata három különböző frekvencián (690 MHz, 554 MHz, és 666 MHz).
+A mérés célja három különböző típusú antenna, az **IKUSI FLASHD C48**, az **ISKRA P20 LOGPER** és az **Smart HD 550** teljesítményének összehasonlítása, valamint a jelszint és jelminőség (MER - Modulation Error Ratio) vizsgálata három különböző frekvencián ( 666 MHz).
 
 ---
 
@@ -41,12 +41,6 @@ A mérés célja három különböző típusú antenna, az **IKUSI FLASHD C48**,
 
 | Frekvencia (MHz) | Antenna          | Jelszint (dBm) |
 | ---------------- | ---------------- | -------------- |
-| **690 MHz**      | IKUSI FLASHD C48 | -67.8          |
-|                  | ISKRA P20 LOGPER | -62.2          |
-|                  | Smart HD 550     | -59.8          |
-| **554 MHz**      | IKUSI FLASHD C48 | -69.1          |
-|                  | ISKRA P20 LOGPER | -66.5          |
-|                  | Smart HD 550     | -56.1          |
 | **666 MHz**      | IKUSI FLASHD C48 | -68.3          |
 |                  | ISKRA P20 LOGPER | -61.8          |
 |                  | Smart HD 550     | -63.2          |
@@ -55,12 +49,6 @@ A mérés célja három különböző típusú antenna, az **IKUSI FLASHD C48**,
 
 | Frekvencia (MHz) | Antenna          | Jelszint (dBm) |
 | ---------------- | ---------------- | -------------- |
-| **690 MHz**      | IKUSI FLASHD C48 | -69.3          |
-|                  | ISKRA P20 LOGPER | -61.4          |
-|                  | Smart HD 550     | -67.2          |
-| **554 MHz**      | IKUSI FLASHD C48 | -70.2          |
-|                  | ISKRA P20 LOGPER | -64.2          |
-|                  | Smart HD 550     | -65.5          |
 | **666 MHz**      | IKUSI FLASHD C48 | -70.7          |
 |                  | ISKRA P20 LOGPER | -61.9          |
 |                  | Smart HD 550     | -66.0          |
@@ -69,12 +57,6 @@ A mérés célja három különböző típusú antenna, az **IKUSI FLASHD C48**,
 
 | Frekvencia (MHz) | Antenna          | Jelszint (dBm) |
 | ---------------- | ---------------- | -------------- |
-| **690 MHz**      | IKUSI FLASHD C48 | -71.1          |
-|                  | ISKRA P20 LOGPER | -72.2          |
-|                  | Smart HD 550     | -69.3          |
-| **554 MHz**      | IKUSI FLASHD C48 | -74.2          |
-|                  | ISKRA P20 LOGPER | -68.6          |
-|                  | Smart HD 550     | -63.9          |
 | **666 MHz**      | IKUSI FLASHD C48 | -72.1          |
 |                  | ISKRA P20 LOGPER | -70.2          |
 |                  | Smart HD 550     | -70.1          |
@@ -83,7 +65,7 @@ A mérés célja három különböző típusú antenna, az **IKUSI FLASHD C48**,
 
 ## 5. Mérési eredmények elemzése
 Az adatok alapján az alábbi következtetéseket lehet levonni:
-- **Jelszint (dBm)**: Az **IKUSI FLASHD C48** és az **ISKRA P20 LOGPER** antennák általában jobban teljesítettek a jelszint tekintetében, különösen a 554 MHz frekvencián. Az **Smart HD 550** antenna alacsonyabb jelszintet produkált mindhárom frekvencián.
+- **Jelszint (dBm)**: Az **IKUSI FLASHD C48** és az **ISKRA P20 LOGPER** antennák általában jobban teljesítettek a jelszint tekintetében, különösen a 666 MHz frekvencián. Az **Smart HD 550** antenna alacsonyabb jelszintet produkált mindhárom frekvencián.
 
 
 ---
