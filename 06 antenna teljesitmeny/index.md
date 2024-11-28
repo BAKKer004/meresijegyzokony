@@ -125,7 +125,7 @@ Az **IKUSI FLASHD C48** antenna javasolt elsődleges használatra, mivel minden 
 
 <details>
   <summary>utca</summary>
-  <img src=""/>
+  <img src="https://raw.githubusercontent.com/BAKKer004/meresijegyzokony/refs/heads/main/06%20antenna%20teljesitmeny/utca/ikusi%20666%20utca.bmp"/>
 </details>
 
 ---
