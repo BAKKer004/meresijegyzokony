@@ -94,35 +94,35 @@ Az alábbi táblázatban összefoglaljuk a mérések eredményeit különböző 
 
 <br>
 
-<img src="https://erosbence27.github.io/jegyzokonyv/image/munkakep1.jpg"/>
+<img src=""/>
 
 <br>
 
-<img src="https://erosbence27.github.io/jegyzokonyv/image/frekik.bmp"/>
+<img src=""/>
 
 <br>
 
-<img src="https://erosbence27.github.io/jegyzokonyv/image/qpsk_meter.bmp"/>
+<img src=""/>
 
 <br>
 
-<img src="https://erosbence27.github.io/jegyzokonyv/image/qpsk_bit.bmp"/>
+<img src=""/>
 
 <br>
 
-<img src="https://erosbence27.github.io/jegyzokonyv/image/16qam_meter.bmp"/>
+<img src=""/>
 
 <br>
 
-<img src="https://erosbence27.github.io/jegyzokonyv/image/16qam_bit.bmp"/>
+<img src=""/>
 
 <br>
 
-<img src="https://erosbence27.github.io/jegyzokonyv/image/64qam_meter.bmp"/>
+<img src=""/>
 
 <br>
 
-<img src="https://erosbence27.github.io/jegyzokonyv/image/64qam_bit.bmp"/>
+<img src=""/>
 
 <br>
 
