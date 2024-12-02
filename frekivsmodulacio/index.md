@@ -77,7 +77,7 @@ Az alábbi táblázatban összefoglaljuk a mérések eredményeit különböző 
 
 
 ## 8. Diagramm
-- <details>mérési diagram </details>
+mérési diagram 
 <img src="https://github.com/user-attachments/assets/273fd5e1-7825-488c-9aeb-4f2d756d3d7e"/>
 
 
