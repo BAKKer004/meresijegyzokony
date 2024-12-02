@@ -93,8 +93,8 @@ Az alábbi táblázatban összefoglaljuk a mérések eredményeit különböző 
 <summary>Kattins a részletekért</summary>
 
 <br>
+![its_snapshot_0001](https://github.com/user-attachments/assets/51f72b17-a5ec-49cc-a80b-c8b0cdf96a61)
 
-<img src=""/>
 
 <br>
 
