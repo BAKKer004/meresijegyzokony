@@ -98,31 +98,37 @@ Az alábbi táblázatban összefoglaljuk a mérések eredményeit különböző 
 
 <br>
 
-<img src=""/>
+<img src="(https://github.com/user-attachments/assets/52f96f4b-f96c-40f8-9935-25e565455934)
+"/>
 
 <br>
 
-<img src=""/>
+<img src="(https://github.com/user-attachments/assets/05516812-0421-4d1c-814e-06d08416e90c)
+"/>
 
 <br>
 
-<img src=""/>
+<img src="(https://github.com/user-attachments/assets/00ec0d27-c911-4389-9bc9-bf826b170bbd)
+"/>
 
 <br>
 
-<img src=""/>
+<img src="(https://github.com/user-attachments/assets/ed92dc9a-a7da-4c8d-9a95-79f5ad706cf6)
+"/>
 
 <br>
 
-<img src=""/>
+<img src="(https://github.com/user-attachments/assets/27e537f4-0962-4efc-8c76-b9389efa1510)
+"/>
 
 <br>
 
-<img src=""/>
+<img src="(https://github.com/user-attachments/assets/dd5c841d-5108-46ee-b11c-eb30b44fe819)
+"/>
 
 <br>
 
-<img src=""/>
+
 
 <br>
 
