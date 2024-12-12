@@ -4,6 +4,7 @@
 **A mérés tárgya:** Antennák teljesítményének és jelminőségének összehasonlítása  
 **A mérés száma:** 5. mérés  
 **A mérés dátuma:** 2024. 12. 12 
+
 **A mérést vezette:** Sándor Péter  
 
 **Évfolyam:** 13. E  
