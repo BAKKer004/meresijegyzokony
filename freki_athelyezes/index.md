@@ -79,15 +79,15 @@ Az **ISKRA P2845** antenna javasolt elsődleges használatra, mivel minden frekv
     <summary>Kattins a részletekért</summary>
 
     **522Mhz Mért Képek:**
-    <img src=""/>
-    <img src=""/>
-    <img src=""/>
+    <img src="(https://github.com/user-attachments/assets/df0295de-7f7b-4c67-be33-2e877e88db5e)">
+    <img src="(https://github.com/user-attachments/assets/7d429f8c-11b8-42ec-80f2-f86730abd5b5)">
+    <img src="(https://github.com/user-attachments/assets/c315dc73-6c86-4627-bcf6-dd85bcb6fd24)"/>
 ---
 
     **730MHz Mért Képek**
-    <img src=""/>
-    <img src=""/>
-    <img src=""/>
+    <img src="(https://github.com/user-attachments/assets/5d7c7da6-d5f5-415b-8b83-e59abdfd36b9)"/>
+    <img src="(https://github.com/user-attachments/assets/6d896358-fa15-47b1-a8df-8de4de9c54ce)"/>
+    <img src="(https://github.com/user-attachments/assets/6e62e904-7b70-48ef-9227-5e136cfc17e1)"/>
 ---
 
 
@@ -102,15 +102,15 @@ Az **ISKRA P2845** antenna javasolt elsődleges használatra, mivel minden frekv
     <summary>Kattins a részletekért</summary>
 
     **522hz Mért Képek:**
-    <img src=""/>
-    <img src=""/>
-    <img src=""/>
+    <img src="(https://github.com/user-attachments/assets/dfbd6ec1-9e25-401a-948f-d25b23a16922)"/>
+    <img src="(https://github.com/user-attachments/assets/0d0e9622-5886-4f60-904e-a5f44064663a)"/>
+    <img src="(https://github.com/user-attachments/assets/996f4499-8d36-4a54-bdee-9da6fd9c04cc)"/>
 ---
 
     **730MHz Mért Képek**
-    <img src=""/>
-    <img src=""/>
-    <img src=""/>
+    <img src="(https://github.com/user-attachments/assets/3ea60c29-6a45-4bf1-b790-51ddc13a0ba6)"/>
+    <img src="(https://github.com/user-attachments/assets/6be9ad2c-c5d5-4865-8b95-9a9c1d2edd47)"/>
+    <img src=(https://github.com/user-attachments/assets/503098c7-e5c0-469c-b546-024970b651e6)"/>
 ---
 
   
@@ -124,15 +124,15 @@ Az **ISKRA P2845** antenna javasolt elsődleges használatra, mivel minden frekv
     <summary>Kattins a részletekért</summary>
 
     **522Mhz Mért Képek:**
-    <img src=""/>
-    <img src=""/>
-    <img src=""/>
+    <img src="(https://github.com/user-attachments/assets/630ce8ba-0ba0-46dd-b1e1-122f6bc0378f)"/>
+    <img src="(https://github.com/user-attachments/assets/ec6c2e9a-d360-4bc6-93ba-bdf6dc1d9c10)"/>
+    <img src="(https://github.com/user-attachments/assets/7585990a-1748-4386-a1a1-9ec3f70a8143)"/>
 ---
 
     **730MHz Mért Képek**
-    <img src=""/>
-    <img src=""/>
-    <img src=""/>
+    <img src="(https://github.com/user-attachments/assets/4166b43f-81e0-4d6b-b1fe-5bd997908b5f)"/>
+    <img src="(https://github.com/user-attachments/assets/d79bb126-cd25-4281-8eca-348f7fa160de)"/>
+    <img src="(https://github.com/user-attachments/assets/e9d47fca-6999-4124-99b4-2bab39554e1f)"/>
 ---
 
 
