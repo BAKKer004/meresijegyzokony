@@ -81,13 +81,13 @@ Az **ISKRA P2845** antenna javasolt elsődleges használatra, mivel minden frekv
     **522Mhz Mért Képek:**
     <img src=""/>
     <img src=""/>
-
+    <img src=""/>
 ---
 
     **730MHz Mért Képek**
     <img src=""/>
     <img src=""/>
-
+    <img src=""/>
 ---
 
 
@@ -104,13 +104,13 @@ Az **ISKRA P2845** antenna javasolt elsődleges használatra, mivel minden frekv
     **522hz Mért Képek:**
     <img src=""/>
     <img src=""/>
-
+    <img src=""/>
 ---
 
     **730MHz Mért Képek**
     <img src=""/>
     <img src=""/>
-
+    <img src=""/>
 ---
 
   
@@ -126,13 +126,13 @@ Az **ISKRA P2845** antenna javasolt elsődleges használatra, mivel minden frekv
     **522Mhz Mért Képek:**
     <img src=""/>
     <img src=""/>
-
+    <img src=""/>
 ---
 
     **730MHz Mért Képek**
     <img src=""/>
     <img src=""/>
-
+    <img src=""/>
 ---
 
 
