@@ -79,14 +79,14 @@ Az **ISKRA P2845** antenna javasolt elsődleges használatra, mivel minden frekv
     <summary>Kattins a részletekért</summary>
 
     **522Mhz Mért Képek:**
-    <img src="https://erosbence27.github.io/jegyzokonyv/image/p20_bit474.bmp"/>
-    <img src="https://erosbence27.github.io/jegyzokonyv/image/p20_fullkep474.bmp"/>
+    <img src=""/>
+    <img src=""/>
 
 ---
 
     **730MHz Mért Képek**
-    <img src="https://erosbence27.github.io/jegyzokonyv/image/p20_bit570.bmp"/>
-    <img src="https://erosbence27.github.io/jegyzokonyv/image/p20_fullkep570.bmp"/>
+    <img src=""/>
+    <img src=""/>
 
 ---
 
@@ -102,14 +102,14 @@ Az **ISKRA P2845** antenna javasolt elsődleges használatra, mivel minden frekv
     <summary>Kattins a részletekért</summary>
 
     **522hz Mért Képek:**
-    <img src="https://erosbence27.github.io/jegyzokonyv/image/p2845_fullkep474.bmp"/>
-    <img src="https://erosbence27.github.io/jegyzokonyv/image/p2845_bit474.bmp"/>
+    <img src=""/>
+    <img src=""/>
 
 ---
 
     **730MHz Mért Képek**
-    <img src="https://erosbence27.github.io/jegyzokonyv/image/p2845_fullkep570.bmp"/>
-    <img src="https://erosbence27.github.io/jegyzokonyv/image/p2845_bit570.bmp"/>
+    <img src=""/>
+    <img src=""/>
 
 ---
 
@@ -124,14 +124,14 @@ Az **ISKRA P2845** antenna javasolt elsődleges használatra, mivel minden frekv
     <summary>Kattins a részletekért</summary>
 
     **522Mhz Mért Képek:**
-    <img src="https://erosbence27.github.io/jegyzokonyv/image/c48_fullkep474.bmp"/>
-    <img src="https://erosbence27.github.io/jegyzokonyv/image/c48_bit474.bmp"/>
+    <img src=""/>
+    <img src=""/>
 
 ---
 
     **730MHz Mért Képek**
-    <img src="https://erosbence27.github.io/jegyzokonyv/image/c48_fullkep570.bmp"/>
-    <img src="https://erosbence27.github.io/jegyzokonyv/image/c48_bit570.bmp"/>
+    <img src=""/>
+    <img src=""/>
 
 ---
 
