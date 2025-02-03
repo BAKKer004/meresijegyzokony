@@ -56,6 +56,8 @@ A feladata egy digitális TV vételi rendszer kiépítése, az Avasi adótorony 
 
 
 1,2,7,8 portokra kötöttük az eszközöket
+
+
 ---
 
 
