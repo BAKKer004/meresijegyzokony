@@ -29,10 +29,10 @@ A Metek HDD-ben 88.4 dBuV jelet tudtunk mérni, tehát így 1,6dBuV csillapít a
 
 <details>
     <summary>Képek</summary>
-    ![IMG_2410](https://github.com/user-attachments/assets/3352776a-4c42-42a5-bad4-c2e7b4209a3b)
-    ![IMG_2409](https://github.com/user-attachments/assets/9726840b-13d5-4715-b079-6469b5194343)
+    (https://github.com/user-attachments/assets/3352776a-4c42-42a5-bad4-c2e7b4209a3b)
+    (https://github.com/user-attachments/assets/9726840b-13d5-4715-b079-6469b5194343)
 
-    ![IMG_2411](https://github.com/user-attachments/assets/7881fc3b-fae4-47e8-ad50-cd286252f873)
+    (https://github.com/user-attachments/assets/7881fc3b-fae4-47e8-ad50-cd286252f873)
 
 
 </details>
