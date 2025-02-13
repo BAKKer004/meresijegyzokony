@@ -20,7 +20,7 @@ A feladat célja, hogy elsajátítsuk a koaxiális kábel készítését és ann
 - Johansson 8202 DVB-T modulátor
 - Koaxiális kábel
 - Metek HDD
-- Blankoló
+- Rotációs blankoló
 
 **Végeredmény:**
 
@@ -29,9 +29,11 @@ A Metek HDD-ben 88.4 dBuV jelet tudtunk mérni, tehát így 1,6dBuV csillapít a
 
 <details>
     <summary>Képek</summary>
-       <img src"(https://github.com/user-attachments/assets/e7dc7f12-26aa-45e5-9fc2-ce5937690340)">
-        <img src"">
-        <img src"">
+    ![IMG_2410](https://github.com/user-attachments/assets/9d3ae49f-f17e-49f7-9b5d-9bdf5b997049)
+    ![IMG_2409](https://github.com/user-attachments/assets/96611211-96d5-4679-a1ad-6e3386840e6b)
+    ![IMG_2411](https://github.com/user-attachments/assets/6c70bedf-4419-4636-abda-4a419be05303)
+
+
 
 </details>
 
